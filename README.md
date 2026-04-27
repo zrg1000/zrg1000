@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gusrod.mg@gmail.com**
 
-- 📄 Know about my experiences [Web Development Student at Senac Minas Uberlândia](Web Development Student at Senac Minas Uberlândia)
+- 📄 Know about my experiences [Web Development Student at Senac Minas Uberlândia]
 
 - ⚡ Fun fact **I love Animes!**
 
