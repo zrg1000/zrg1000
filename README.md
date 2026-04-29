@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hi, I'm Gustavo</p>
+<p align="center">Hello, I'm Gustavo</p>
 
 ###
 
